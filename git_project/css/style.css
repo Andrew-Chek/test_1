@@ -7,10 +7,6 @@ div {
     margin-top: 100px;
 } 
 .second_block {
-    display: block;
-    width: 400px;
-    height: 400px;
-    background-color: #000000;
     margin: 0 auto;
     margin-top: 100px;
 }
